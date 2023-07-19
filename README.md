@@ -1,4 +1,6 @@
 [![ysthakur's Stats](https://github-readme-stats.vercel.app/api?username=ysthakur&theme=dracula&show_icons=true&hide_border=true)](https://gh-stats-gen.vercel.app/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ysthakur&theme=dracula&column=3&title=MultiLanguage,Stars,Commits,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=ysthakur&theme=dracula&column=3&title=MultiLanguage,Stars,Commits,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 [![ysthakur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysthakur&theme=dracula&show_icons=true&hide_border=true&hide=Jupyter+Notebook,TeX,Shell,Batchfile&langs_count=7)](https://gh-stats-gen.vercel.app/)
+-->
