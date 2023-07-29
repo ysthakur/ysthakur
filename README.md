@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=everything.rs)](https://github.com/ysthakur/everything.rs)
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=snic)](https://github.com/ysthakur/snic)
 
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=YamlPlugin)](https://github.com/ysthakur/snic)
+[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=YamlPlugin)](https://github.com/ysthakur/YamlPlugin)
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=paml)](https://github.com/ysthakur/paml)
 
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=blair-robot-project&repo=cobras)](https://github.com/blair-robot-project/cobras)
