@@ -1,16 +1,13 @@
-[![ysthakur's Stats](https://github-readme-stats-two-iota-53.vercel.app/api?username=ysthakur&theme=dracula&show_icons=true&hide_border=true)](https://gh-stats-gen.vercel.app/)
-
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=verity)](https://github.com/ysthakur/verity)
+[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=man-completions)](https://github.com/ysthakur/man-completions)
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=asdf-amm)](https://github.com/ysthakur/asdf-amm)
 
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=everything.rs)](https://github.com/ysthakur/everything.rs)
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=snic)](https://github.com/ysthakur/snic)
-
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=YamlPlugin)](https://github.com/ysthakur/YamlPlugin)
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=paml)](https://github.com/ysthakur/paml)
 
 [![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=blair-robot-project&repo=cobras)](https://github.com/blair-robot-project/cobras)
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=arts-n-stem)](https://github.com/ysthakur/arts-n-stem)
+[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=snic)](https://github.com/ysthakur/snic)
+
+[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=verity)](https://github.com/ysthakur/verity)
 
 Fake pins are from https://github.com/anuraghazra/github-readme-stats.
 
