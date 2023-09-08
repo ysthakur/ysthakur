@@ -1,13 +1,13 @@
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=man-completions)](https://github.com/ysthakur/man-completions)
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=asdf-amm)](https://github.com/ysthakur/asdf-amm)
+[![man-completions (Might need to reload your page for the images to show up)](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=man-completions)](https://github.com/ysthakur/man-completions)
+[![asdf-amm](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=asdf-amm)](https://github.com/ysthakur/asdf-amm)
 
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=everything.rs)](https://github.com/ysthakur/everything.rs)
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=YamlPlugin)](https://github.com/ysthakur/YamlPlugin)
+[![everything.rs](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=everything.rs)](https://github.com/ysthakur/everything.rs)
+[![YAMLPlugin](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=YamlPlugin)](https://github.com/ysthakur/YamlPlugin)
 
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=blair-robot-project&repo=cobras)](https://github.com/blair-robot-project/cobras)
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=snic)](https://github.com/ysthakur/snic)
+[![cobras](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=blair-robot-project&repo=cobras)](https://github.com/blair-robot-project/cobras)
+[![sline](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=sline)](https://github.com/ysthakur/sline)
 
-[![Readme Card](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=verity)](https://github.com/ysthakur/verity)
+[![verity](https://github-readme-stats-two-iota-53.vercel.app/api/pin/?username=ysthakur&repo=verity)](https://github.com/ysthakur/verity)
 
 Fake pins are from https://github.com/anuraghazra/github-readme-stats.
 
